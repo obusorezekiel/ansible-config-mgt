@@ -1,4 +1,4 @@
-## INSTALL AND CONFIGURE ANSIBLE ON EC2 INSTANCE
+## INSTALL AND CONFIGURE ANSIBLE ON EC2 INSTANCE.
 
 - Update Name tag on your Jenkins EC2 Instance to Jenkins-Ansible. We will use this server to run playbooks.
 
