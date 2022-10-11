@@ -181,7 +181,6 @@ on the first build, your Jenkins config will look like this
         ansible-playbook -i inventory/dev.yml playbooks/common.yml
         
    ```
-   ![Screenshot from 2022-10-11 14-57-35](https://user-images.githubusercontent.com/23356682/195112589-485137c3-4055-4d2c-a95f-73fead055823.png)
 ![Screenshot from 2022-10-11 14-57-57](https://user-images.githubusercontent.com/23356682/195112594-033b4efc-b66b-48ea-9bf8-7ab602609686.png)
    ![Screenshot from 2022-10-11 14-01-33](https://user-images.githubusercontent.com/23356682/195112563-bf3e5234-88d7-4c1e-a4fa-ff33e8df4f3f.png)
 ![Screenshot from 2022-10-11 14-02-30](https://user-images.githubusercontent.com/23356682/195112576-8bf4b642-7bcd-4257-8e28-644d0733bc44.png)
