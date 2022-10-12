@@ -10,3 +10,8 @@
 
 [lb]
 172.31.12.28 ansible_ssh_user='ubuntu'
+
+[deployment:children]
+db
+lb
+
