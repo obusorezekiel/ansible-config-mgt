@@ -1,7 +1,5 @@
 ## INSTALL AND CONFIGURE ANSIBLE ON EC2 INSTANCE.
 
-Kindly note that this Project 11 contains the code bases for both Project 12, and Project 13. However, the documentation is for project 11. See project 12 [Documentation here](https://github.com/obusorezekiel/ansible-config-proj-12)
-
 - Update Name tag on your Jenkins EC2 Instance to Jenkins-Ansible. We will use this server to run playbooks.
 
 ![Screenshot from 2022-10-11 13-00-48](https://user-images.githubusercontent.com/23356682/195110719-a3b35d5b-9e99-41b3-aac3-3fce4f1b8ed2.png)
